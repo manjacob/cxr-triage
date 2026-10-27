@@ -1,0 +1,9 @@
+monai
+gradio
+fastapi
+uvicorn
+grad-cam
+scikit-learn
+pandas
+matplotlib
+kaggle
